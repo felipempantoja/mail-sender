@@ -86,7 +86,7 @@ publishing {
             pom {
                 name.set("Mail Sender")
                 description.set("A customizable way of sending emails")
-                url.set("http://gitlab.mprj.mp.br/gsi-mailer")
+                url.set("https://github.com/felipempantoja/mail-sender")
                 developers {
                     developer {
                         id.set("felipempantoja")
