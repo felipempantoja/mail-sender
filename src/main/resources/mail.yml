@@ -1,0 +1,22 @@
+gsi:
+  mail:
+    host: host
+    from: 'from'
+    to: 'to'
+    title-prefix: 'prefix - '
+
+spring:
+  mail:
+    host: host
+    port: 587
+    username: username
+    password: password
+    properties:
+      mail:
+        smtp:
+          auth: false
+          connectiontimeout: 5000
+          timeout: 5000
+          writetimeout: 5000
+          starttls:
+            enable: true

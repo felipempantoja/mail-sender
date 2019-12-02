@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  br.com.felipempantoja.mailsender.config.MailSenderAutoConfiguration,\
+  br.com.felipempantoja.mailsender.config.MailTemplateAutoConfiguration
